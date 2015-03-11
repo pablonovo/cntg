@@ -1,0 +1,2 @@
+# cntg
+Ejemplo de clase
